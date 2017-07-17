@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.gozmanvictor.linear.MainActivity">
+
+
+    <item
+        android:id="@+id/search"
+        android:icon="@drawable/ic_search_white_24dp"
+        app:showAsAction="never"
+        android:title="@string/action_get"
+        android:theme="@style/MySearchView"
+        app:actionViewClass="android.support.v7.widget.SearchView" />
+
+    <item
+        android:id="@+id/signUp"
+        android:text="@string/signup"
+        app:showAsAction="always"
+        android:title="@string/signup" />
+
+    <item
+        android:id="@+id/OurCities"
+        android:text="@string/cities"
+        app:showAsAction="always"
+        android:layout_margin="0dp"
+        android:title="@string/cities" />
+
+
+
+<item
+    android:id="@+id/contact"
+    android:icon="@android:drawable/ic_dialog_email"
+    app:showAsAction="ifRoom"
+    android:title="@string/action_contact" />
+    <item
+        android:id="@+id/subscribe"
+        android:title="@string/action_subscribe" />
+    <item
+    android:id="@+id/balance"
+    app:showAsAction="ifRoom"
+    android:title="@string/action_balance" />
+
+
+
+
+</menu>

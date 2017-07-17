@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">VICFOOD</string>
+    <string name="backgroudText">Juneja Art Gallery</string>
+    <string name="welcomeText">GOOD BYE JUNK FOOD.
+        \n HELLO SUPER HEALTHY MEAL</string>
+    <string name="duration">Husband and wife, don\'t cook again</string>
+    <string name="getfood">GET FOOD FAST - FAST FOOD</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_get">Share</string>
+    <string name="cities">Our Cities</string>
+    <string name="signup">Sign Up</string>
+    <string name="action_search">Search</string>
+    <string name="action_contact">Contact Us</string>
+    <string name="action_subscribe">Subscribe</string>
+    <string name="action_balance">Check Balance</string>
+    <string name="search_cities_hint">Search Our Cities</string>
+    <string name="food_delivery">Check our cities, subscribe and have your food \n delivered to you.</string>
+    <string name="contact_us">Contact us @vicfoodenugu.com</string>
+    <string name="call_us">08108893403, 07036323300</string>
+</resources>
